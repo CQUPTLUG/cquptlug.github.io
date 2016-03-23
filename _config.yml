@@ -1,0 +1,30 @@
+# Site settings
+title: CQUPT LUG
+email: "cqupt_lug_2016@yahoo.com"
+description: "Blog of CQUPT LUG."
+baseurl: ""
+url: "https://cquptlug.github.io/"
+permalink: /:year/:title
+
+
+# Social account
+#twitter:  PeiwenLu
+weibo:    FOSSinCQUPT
+github:   cquptlug2016
+#codepen:  
+# dribbble: username
+
+
+# Comment
+# disqus_shortname:
+
+
+# Google Analytics
+
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+gems:
+  - jekyll-sitemap

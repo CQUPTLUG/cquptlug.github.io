@@ -1,0 +1,7 @@
+---
+layout: default
+---
+<div id="home" class="container">
+  <h1>Hi，这里是重邮LUG</h1>
+  <p>欢迎各位</p>
+</div>
