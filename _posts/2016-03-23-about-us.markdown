@@ -1,6 +1,6 @@
 ---
 layout: post  
-titile: 关于重邮LUG  
+title: 关于重邮LUG  
 tags: 关于我们  
 
 ---
