@@ -3,7 +3,7 @@ title: CQUPT LUG
 email: "cqupt_lug_2016@yahoo.com"
 description: "Blog of CQUPT LUG."
 baseurl: ""
-url: "https://cquptlug.github.io/"
+url: "http://cquptlug.github.io/"
 permalink: /:year/:title
 
 
